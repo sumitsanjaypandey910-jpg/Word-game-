@@ -1,0 +1,6 @@
+{
+  "name": "WordSparks: Kids Alphabet Connect",
+  "description": "A playful, interactive word and sentence puzzle game for kids to connect letters, build vocabulary, and learn reading with audio phonics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
